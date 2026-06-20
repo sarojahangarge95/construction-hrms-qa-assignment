@@ -1,1 +1,1 @@
-# Overtime Entry Specification
+Add detailed overtime entry specification
